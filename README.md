@@ -20,3 +20,7 @@ This project is a simple **machine learning web application** that predicts the 
 ## Demo:
 - Input: Sepal length, sepal width, petal length, petal width
 - Output: Predicted flower type (Setosa, Versicolor, Virginica)
+
+## 🚀 Live Demo
+Check out the deployed app here: [Iris Classifier Live](https://irisclassifier-utzmkmcrxzwgjhw6ctmkma.streamlit.app/)
+
